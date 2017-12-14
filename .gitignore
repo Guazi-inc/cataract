@@ -1,0 +1,13 @@
+.idea
+log/*
+logs/*
+logs/
+!web.xml
+.pyc
+*.iml
+*.DS_Store
+target
+.project
+.settings/*
+.classpath
+typescript
